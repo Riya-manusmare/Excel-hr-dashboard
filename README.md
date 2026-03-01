@@ -69,7 +69,8 @@ Manager name
 These filters allow users to analyze specific employee segments dynamically.
 
 Dashboard Preview
-![HR Dashboard Preview](./dashboard_screenshot.png)
+<img width="1418" height="810" alt="Screenshot 2026-03-01 202848" src="https://github.com/user-attachments/assets/a9501e58-ae96-48e5-9a60-23f4aa88bb66" />
+
 Business Value
 
 This dashboard supports HR decision-making by improving visibility into workforce trends, enabling better retention strategies, optimizing recruitment channels, and monitoring organizational health.
